@@ -1,17 +1,37 @@
-# 🕸️ Web Scraping with Python and BeautifulSoup
+# 🕸️ Web Scraping: Newegg Product Data
 
-This project uses Python to scrape product data (like brand, product name, and shipping info) from [Newegg](https://www.newegg.com) using the `requests` and `BeautifulSoup` libraries.
-
-## 📌 What It Does
-
-- Extracts product names, brands, and shipping details
-- Uses BeautifulSoup to parse and navigate the HTML
-- Saves results to a CSV file for future use or analysis
-- Runs inside a Jupyter Notebook
+This is a simple web scraping project using Python, `requests`, and `BeautifulSoup`. The scraper extracts product brand, name, and shipping info from [Newegg](https://www.newegg.com), and saves the data into a `.csv` file.
 
 ---
 
-## 🚀 How to Run It
+## 📁 Project Structure
+
+- `web-scraping-newegg.ipynb` — the main Jupyter notebook
+- `products.csv` — output data (optional to upload)
+- `requirements.txt` — list of dependencies
+- `README.md` — this file
+- `LICENSE` — open-source license (MIT)
+
+---
+
+## 📌 What You’ll Learn
+
+- How to scrape websites using BeautifulSoup
+- How to extract specific tags and attributes
+- How to store structured data into a CSV file
+- Writing clean, reusable scraping code in Python
+
+---
+
+## 🧪 Sample Output
+
+| Brand | Product Name | Shipping |
+|-------|--------------|----------|
+| MSI   | GTX 1660 ... | Free Shipping |
+
+---
+
+## 🛠️ How to Run This Project
 
 ### 1. Clone the Repository
 
